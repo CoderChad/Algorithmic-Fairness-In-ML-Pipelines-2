@@ -37,5 +37,7 @@ This report outlines fairness enhancing interventions that I implemented into a 
 
 # Conclusion (Findings):
 
+What I found was that as I increased the repair level, the overall accuracy and privileged group accuracy decreased significantly. Contrarily, the false positive rate difference and disparate impact increased significantly:
+
 <img width="1440" alt="Screen Shot 2022-04-19 at 2 14 10 PM" src="https://user-images.githubusercontent.com/97006483/164069044-f238462f-1854-4d00-9241-4da6e8d0789a.png">
 
