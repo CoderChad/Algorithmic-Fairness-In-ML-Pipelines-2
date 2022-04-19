@@ -22,7 +22,8 @@ This report outlines fairness enhancing interventions that I implemented into a 
 
 (v) False positive rate difference
 
-# Baseline Performance; 
+# Baseline Performance:
+
 <img width="543" alt="Screen Shot 2022-04-19 at 2 12 50 PM" src="https://user-images.githubusercontent.com/97006483/164068855-bd94b704-65de-4240-9047-e08ad0a08c9c.png">
 
 # Methodology (Doings):
