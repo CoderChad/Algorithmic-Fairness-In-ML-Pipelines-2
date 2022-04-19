@@ -9,9 +9,17 @@ This report outlines fairness enhancing interventions that I implemented into a 
 ## Performance Analysis Metrics:
 
 (i) Overall accuracy
+
+
 (ii) Accuracy for the privileged group
+
+
 (iii) Accuracy for the unprivileged group
+
+
 (iv) Disparate Impact
+
+
 (v) False positive rate difference
 
 # Baseline Performance; 
