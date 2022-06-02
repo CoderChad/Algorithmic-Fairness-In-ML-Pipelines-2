@@ -1,5 +1,5 @@
 # Algorithmic-Fairness-In-ML-Pipelines-2
-This report outlines fairness enhancing interventions that I implemented into a Machine Learning Pipeline. I was interested in using the Machine Learning Algorithm to predict an individuals likelihood of being high or low income using sex as the sensitive attribute of analysis. 
+This report outlines fairness enhancing interventions that I implemented into a Machine Learning Pipeline. I was interested in using the Machine Learning Algorithm to predict the  likelihood of an individual being high or low income using sex as the sensitive attribute of analysis. 
 
 
 # Please see the attached notebook for my work.
